@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 print("HaiiiiHello")
+=======
+print("Haiiall")
+>>>>>>> development
